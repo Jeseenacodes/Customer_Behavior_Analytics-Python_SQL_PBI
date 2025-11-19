@@ -1,7 +1,7 @@
 
 # **Customer Behavior Analysis**
 
-### *Unlocking Insights From 3,900 Retail Transactions Using Python & SQL. The goal is to uncover insights about **spending behavior, product preferences, customer segments, and subscription trends**.*
+### *Unlocking Insights From 3,900 Retail Transactions Using Python & SQL, exploring spending behavior, product preferences, customer segments, and subscription trends.*
 
 <p align="center">
 
