@@ -253,6 +253,8 @@ This interactive Power BI dashboard provides a comprehensive view of **Customer 
 
 The visuals on **Page 1** of the dashboard include:
 
+<img width="938" height="521" alt="Screenshot 2025-11-18 210355" src="https://github.com/user-attachments/assets/b6fd6d90-c400-4c24-83f2-bc0c8111a989" />
+
 ### **KPI Cards**
 
 * **Total Customers (3.9K)** — Total unique customers in the dataset.
@@ -285,6 +287,8 @@ The visuals on **Page 1** of the dashboard include:
 * Youth customers make the most purchases (1,028 sales).
 
 The visuals on **Page 2** of the dashboard include:
+
+<img width="933" height="521" alt="Screenshot 2025-11-18 210405" src="https://github.com/user-attachments/assets/57d21e13-2c80-400e-ba3c-78bf8cecf4a9" />
 
 ### **Donut Chart: Sales by Gender**
 
