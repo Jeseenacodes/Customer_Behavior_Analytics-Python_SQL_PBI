@@ -9,7 +9,7 @@
 <br>
 
 <img src="https://img.shields.io/badge/Project-Data%20Analytics-4B9CD3?style=flat" />
-<img src="https://img.shields.io/badge/Tech-Python%20%7C%20SQL%20%7C%20PostgreSQL-6C63FF?style=flat" />
+<img src="https://img.shields.io/badge/Tech-Python%20%7C%20%7C%20PostgreSQL-6C63FF?style=flat" />
 <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-brightgreen?style=flat" />
 <img src="https://img.shields.io/badge/PowerBI-Reporting%20%26%20Dashboards-F2C811?style=flat" />
 <img src="https://img.shields.io/badge/Status-Completed-success?style=flat" />
